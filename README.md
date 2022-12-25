@@ -1,6 +1,6 @@
 # portable
 
-Download latest: [here](releases/tag/latest)
+Download latest: [here](https://github.com/burpsuite-pro/portable/releases/tag/latest)
 
 Start keygen: keygen.vbs
 
